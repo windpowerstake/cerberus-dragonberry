@@ -1,4 +1,6 @@
-# Cerberus v2.0.0
+# Cerberus v2.0.2
+
+This contrib, adds the repositories of the last cosmos sdk
 
 ## Running a Cerberus validator
 
